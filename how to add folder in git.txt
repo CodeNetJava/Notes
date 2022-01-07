@@ -1,0 +1,13 @@
+cd fileName
+git init
+git status
+touch .gitignore
+git init
+git add .
+git commit -m "fourth"
+git status
+ git remote add origin https://github.com/CodeNetJava/Java-codes.git
+git push -u origin master
+
+
+/c/Users/ADMIN/.ssh/id_rsa.pub
