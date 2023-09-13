@@ -1,0 +1,5 @@
+1) Which of the following should be used to render model data in the templates?]
+  ${}
+  
+2) Which of the following Thymeleaf tags should be used to render multiple records
+   th:each
